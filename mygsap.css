@@ -1,10 +1,10 @@
 .col
 {
-padding-top: 45%;
-background-color:rgb(230,245,249);
-overflow: hidden; 
-position:relative;
-min-height:45%;
+  padding-top: 45%;
+  background-color:rgb(230,245,249);
+  overflow: hidden; 
+  position:relative;
+  min-height:45%;
 }
 .cnt_group
 {
@@ -12,16 +12,15 @@ display: inline-block;
 }
 .cnt
 {
-padding:2px;
-width:3%;
-margin:2px;
- transition: transform .3s ease-out;
+  padding:2px;
+  width:3%;
+  margin:2px;
+  transition: transform .3s ease-out;
 /*  border: 1px solid gray; */
 }
 .cnt:hover
 {
-  transform: scale(0.8);
- 
+   transform: scale(0.8);
 }
 .c_4
 {
@@ -32,99 +31,97 @@ z-index: 100;
 }
 .c_3
 {
-position: absolute;
-bottom: 5%;
-right:8%;
- z-index: 100;
+  position: absolute;
+  bottom: 5%;
+  right:8%;
+  z-index: 100;
 }
 .c_2
 {
-position: absolute;
-bottom: 5%;
-right:11%;
- z-index: 100;
+  position: absolute;
+  bottom: 5%;
+  right:11%;
+  z-index: 100;
 }
 .c_1
 {
-position: absolute;
-bottom: 5%;
-right:14%;
-z-index: 100;
+  position: absolute;
+  bottom: 5%;
+  right:14%;
+  z-index: 100;
 }
 .cnt_image
 {
-
- width:80%;
+   width:80%;
 }
 .charm
 {
-width: 18%;
-padding-bottom:2px;
-margin:0%;
+  width: 18%;
+  padding-bottom:2px;
+  margin:0%;
 }
 .ms001_9r
 {
-position: absolute;
-top:1%;
-left: 45%;
-visibility: hidden;
+  position: absolute;
+  top:1%;
+  left: 45%;
+  visibility: hidden;
 }
 .ms001_ag
 {
-position: absolute;
-top:1%;
-left: 45%;
-visibility: hidden;
+  position: absolute;
+  top:1%;
+  left: 45%;
+  visibility: hidden;
 }
 .ms001_9y
 {
-position: absolute;
-top:1%;
-left: 45%;
- visibility: hidden;
+  position: absolute;
+  top:1%;
+  left: 45%;
+  visibility: hidden;
 }
 .ch
 {
-width: 100%;
+  width: 100%;
 }
 .chn 
 {
-width: 80%;
+  width: 80%;
 }
 .chain
 {
-
-display: visible;
-width: 100%;
-text-align: center;
+  display: visible;
+  width: 100%;
+  text-align: center;
 }
 .start
 {
-transform: scale(0.7);
-position: absolute;
-top:6%;
-left: -35%;
+  transform: scale(0.7);
+  position: absolute;
+  top:6%;
+  left: -35%;
 }
 .end
 {
-transform: scale(0.7);
-position: absolute;
-top:6%;
-left: 40%;
+  transform: scale(0.7);
+  position: absolute;
+  top:6%;
+  left: 40%;
 }
 .closed
 {
-position: absolute;
-top:6%;
-left:-20%;
-width:140%;
-visibility: hidden;
+  position: absolute;
+  top:6%;
+  left:-20%;
+  width:140%;
+  visibility: hidden;
 }
 .final
 {
-position: absolute;
-top:100%;
-left:-13%;
-width:126%;
-visibility: hidden; 
+  position: absolute;
+  top:100%;
+  left:-13%;
+  width:126%;
+  visibility: hidden; 
 }
