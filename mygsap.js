@@ -19,7 +19,7 @@ myScene
     .to(".start",1,{x:"8%",ease:Linear.easeOut,zIndex:18},"-=0.5")
     .to(".end",1,{x:"-6.5%",ease:Linear.easeOut},"-=0.5")
     //swap out start chain
-    .to(bucky[0],0.5,{src:'/design/themes/GiddyStore/media/animation/01/res/images/chainDual.png'},"-=0.5")
+    .to('bucky[0]',0.5,{src:'/design/themes/GiddyStore/media/animation/01/res/images/chainDual.png'},"-=0.5")
     //remove charms
     .to(".ms001_9r",1,{x:"-500%",zIndex:20,autoAlpha:0,ease:Power1.easeIn})
     .to(".ms001_ag",1,{x:"-500%",zIndex:20,autoAlpha:0,ease:Power1.easeIn})
