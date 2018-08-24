@@ -1,4 +1,3 @@
-
 var myScene = new TimelineMax({repeat:-1,repeatDelay:4,yoyo:false});
 myScene
     .to(".start",1,{x:"-2%",ease:Linear.easeOut})
