@@ -20,7 +20,7 @@ margin:2px;
 }
 .cnt:hover
 {
- //transform: scale(1.5);
+ /*transform: scale(1.5);*/
  transform: translate(0, -5px);
 }
 .c_4
